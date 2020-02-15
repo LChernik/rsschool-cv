@@ -19,7 +19,7 @@ My main goal is to become an Font End developer. I want to create high-quality a
 
 Now I am working as a Business Analyst in IT company.
 
-At the beginning of my Web Developer journey i've already learned basics of HTML, CSS and JavaScript. 
+At the beginning of my Web Developer journey I've already learned basics of HTML, CSS and JavaScript. 
 
 ### Skills
 1. Programming languages
@@ -34,7 +34,7 @@ At the beginning of my Web Developer journey i've already learned basics of HTML
    * UML
    * OOP
    * Version control
-2. Tools
+1. Tools
    * Git
    * GitHub
 
