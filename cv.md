@@ -26,6 +26,7 @@ At the beginning of my Web Developer journey I've already learned basics of HTML
    * HTML
    * CSS
    * JavaScript
+   * Typescript
 1. Databases
    * MySQL
    * PostgreSQL
@@ -37,6 +38,17 @@ At the beginning of my Web Developer journey I've already learned basics of HTML
 1. Tools
    * Git
    * GitHub
+1. Frameworks and Libraries
+   * React
+   * Bootstrap
+   * jQuery
+   
+### Examples of code
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
 ### Education
 **Belarusian State Economic University**
