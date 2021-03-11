@@ -1,0 +1,18 @@
+html {
+    font-size: 16px;
+}
+
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+}
+
+a {
+    list-style: none;
+    color: blue;
+    text-decoration: none;
+}
+
+.skills li{
+    margin-bottom: 7px;
+}
